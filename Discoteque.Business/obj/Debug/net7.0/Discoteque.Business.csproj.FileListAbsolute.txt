@@ -1,0 +1,12 @@
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.deps.json
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.dll
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\bin\Debug\net7.0\Discoteque.Business.pdb
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.AssemblyReference.cache
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfoInputs.cache
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.AssemblyInfo.cs
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.csproj.CoreCompileInputs.cache
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.dll
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\refint\Discoteque.Business.dll
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\Discoteque.Business.pdb
+C:\Users\lisma\OneDrive\Documentos\Cursos\Bootcamp\Discoteque\Discoteque.Business\obj\Debug\net7.0\ref\Discoteque.Business.dll
