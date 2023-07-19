@@ -4020,6 +4020,32 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Discoteque.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Discoteque.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Discoteque.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Discoteque.Business.dll": {}
+        }
+      },
+      "Discoteque.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.InMemory": "7.0.9"
+        },
+        "compile": {
+          "bin/placeholder/Discoteque.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Discoteque.Data.dll": {}
+        }
       }
     }
   },
@@ -11811,10 +11837,22 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Discoteque.Business/1.0.0": {
+      "type": "project",
+      "path": "../Discoteque.Business/Discoteque.Business.csproj",
+      "msbuildProject": "../Discoteque.Business/Discoteque.Business.csproj"
+    },
+    "Discoteque.Data/1.0.0": {
+      "type": "project",
+      "path": "../Discoteque.Data/Discoteque.Data.csproj",
+      "msbuildProject": "../Discoteque.Data/Discoteque.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Discoteque.Business >= 1.0.0",
+      "Discoteque.Data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.7",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.9",
@@ -11851,7 +11889,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\lisma\\OneDrive\\Documentos\\Cursos\\Bootcamp\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj": {
+              "projectPath": "C:\\Users\\lisma\\OneDrive\\Documentos\\Cursos\\Bootcamp\\Discoteque\\Discoteque.Business\\Discoteque.Business.csproj"
+            },
+            "C:\\Users\\lisma\\OneDrive\\Documentos\\Cursos\\Bootcamp\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+              "projectPath": "C:\\Users\\lisma\\OneDrive\\Documentos\\Cursos\\Bootcamp\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
